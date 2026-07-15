@@ -13,6 +13,7 @@ Then, use the usbipd list command in the terminal to find device.
 <img width="848" height="228" alt="image" src="https://github.com/user-attachments/assets/aefb316a-9913-4995-bf51-e6025af5c272" />
 
 If you want sharing "USB Serial Converter",You need add "Conv" (you can read regular expression) in the congfig.txt, Use enter add next config.
+***
 
 这是一个WSL的USB共享项目
 
